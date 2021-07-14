@@ -1,0 +1,24 @@
+{
+	"colors": [
+		{
+			"color": "#75caf7",
+			"weight": 1
+		},
+		{
+			"color":  "#edadb8",
+			"weight": 1
+		},
+		{
+			"color":  "#ffffff",
+			"weight": 1
+		},
+		{
+			"color":  "#edadb8",
+			"weight": 1
+		},
+		{
+			"color":  "#75caf7",
+			"weight": 1
+		}
+	]
+}

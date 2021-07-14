@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+	<defs>
+		<pattern id="Flag" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="36" height="36" data-pride="1" data-pride-x="0" data-pride-y="5" data-pride-dx="0" data-pride-dy="26" data-pride-width="2">
+		</pattern>
+	</defs>
+	<path fill="url(#Flag)" d="M0 27c0 2.209 1.791 4 4 4h28c2.209 0 4-1.791 4-4v-.5 L36 9 c0-2.209-1.791-4-4-4h-28c -2.209 0 -4 1.791 -4 4z"/>
+</svg>

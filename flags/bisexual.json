@@ -1,0 +1,16 @@
+{
+	"colors": [
+		{
+			"color": "#d70071",
+			"weight": 2
+		},
+		{
+			"color":  "#9c4e97",
+			"weight": 1
+		},
+		{
+			"color":  "#0035aa",
+			"weight": 2
+		}
+	]
+}

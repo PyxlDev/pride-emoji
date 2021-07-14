@@ -1,0 +1,20 @@
+{
+	"colors": [
+		{
+			"color": "#000000",
+			"weight": 1
+		},
+		{
+			"color":  "#a5a5a5",
+			"weight": 1
+		},
+		{
+			"color":  "#ffffff",
+			"weight": 1
+		},
+		{
+			"color":  "#810081",
+			"weight": 1
+		}
+	]
+}
